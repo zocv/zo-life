@@ -7,6 +7,7 @@ import { setAllSidebars } from './myscript/autoSidebar'
 export default defineConfig({
   title: "zo-life",
   description: "个人生活",
+  base: '/zo-life/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
