@@ -1,3 +1,18 @@
+node_modules
+root-docs/.vitepress/dist
+root-docs/.vitepress/cache
+root-docs/.vitepress/.temp
+root-docs/history
+root-docs/xrepo
+
+
+# 私人的文件库 【本地】
+root-docs/me-repo
+root-docs/me-pages
+root-docs/me-articles
+root-docs/zo-repo/myDiary
+
+
 # Logs
 logs
 *.log
